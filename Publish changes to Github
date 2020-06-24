@@ -1,0 +1,6 @@
+How to Commit changes to Github
+
+1. git add .
+2. git status
+3. git commit -m "comment"
+4. git push -u origin master
